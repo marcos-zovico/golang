@@ -44,7 +44,7 @@ func main() {
 	str2 := "gdfgdgdfg"
 	fmt.Println(str2)
 
-	// char é sempre declarado em cm aspas simples
+	// char é sempre declarado em com aspas simples
 	// é sempre convertido para o numero da tabel aASCII
 	char := 'A'
 	fmt.Println(char)
