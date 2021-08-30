@@ -5,7 +5,7 @@ import "fmt"
 
 func main() {
 
-	var variavel1 string = "Varialvel 1"
+	var variavel1 = "Varialvel 1"
 	variavel2 := "Variavel 2"
 
 	fmt.Println(variavel1)
@@ -20,8 +20,7 @@ func main() {
 	variavel5, variavel6 := "sdfsdfsdff", "xcxcxcxcxcx"
 	fmt.Println(variavel5, variavel6)
 
-	// Vale a mesma regra de declaração de variáveis
-
+	// Vale as mesmas regras de declaração de variáveis
 	const constante1 string = "Contante 1"
 	fmt.Println(constante1)
 
