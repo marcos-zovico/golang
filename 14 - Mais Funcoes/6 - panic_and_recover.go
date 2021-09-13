@@ -25,4 +25,3 @@ func main() {
 	fmt.Println(calcularMedia(6, 6))
 	fmt.Println("Pós execução!")
 }
-

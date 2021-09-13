@@ -10,7 +10,7 @@ func main() {
 
 // init pode ter uma por arquivo dentro do mesmo pacote
 // main so pode ter uma por pacote
-func init()  {
+func init() {
 	fmt.Println("Executando a função init")
 	n = 10
 }
